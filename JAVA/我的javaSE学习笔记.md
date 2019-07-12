@@ -777,7 +777,7 @@ intArray[1][0]=0;intArray[1][1]=1; intArray[1][2]=2;
 
 >②申明和赋值一起(较麻烦版本)
 
-int[][] intArray=new int[][]{{0,1},{0,1,2}};  
+int[][] intArray=new int[][]{ {0,1},{0,1,2} };  
 Person[][] …
 
 >③申明和赋值一起(最简单版本)
