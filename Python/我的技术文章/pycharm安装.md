@@ -9,9 +9,9 @@ https://www.jetbrains.com/pycharm/
 点击`DOWNLOAD NOW`按钮，进入系统版本下载页面
 
 
-![图片1](../images/Pycharm1.png)
+![图片1](/images/Pycharm1.png)
 
-![图片2](../images/Pycharm2.png)
+![图片2](/images/Pycharm2.png)
 
 
 点击专业版下载
@@ -30,13 +30,13 @@ https://www.jetbrains.com/pycharm/
 >sh ./pycharm.sh
 
 
-![图片3](../images/Pycharm3.png)
+![图片3](/images/Pycharm3.png)
 
-![图片4](../images/Pycharm4.png)
+![图片4](/images/Pycharm4.png)
 
-![图片5](../images/Pycharm5.png)
+![图片5](/images/Pycharm5.png)
 
-![图片6](../images/Pycharm6.png)
+![图片6](/images/Pycharm6.png)
 
 输入pycharm激活码
 
@@ -74,16 +74,16 @@ WMClass=jetbrains-pycharm
 
 新建文件
 
-![图片7](../images/Pycharm7.png)
+![图片7](/images/Pycharm7.png)
 
 
 点开 Project interpreter.Python 3.6 的三角图标，并选择 Existing interpreter 的路径。点击 Create 创建。
 
-![图片8](../images/Pycharm8.png)
+![图片8](/images/Pycharm8.png)
 
 取消 Tip of the Day 的 Show tips on startup ，点击关闭按钮 Close
 
-![图片9](../images/Pycharm9.png)
+![图片9](/images/Pycharm9.png)
 
 安装完毕
 
@@ -113,6 +113,6 @@ WMClass=jetbrains-pycharm
 
 6.在系统搜索处输入pycharm，双击启动即可。
 
-![图片10](../images/Pycharm10.png)
+![图片10](/images/Pycharm10.png)
 
 注意：固定不到桌面快速启动栏
