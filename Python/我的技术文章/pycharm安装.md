@@ -47,28 +47,6 @@ MTW881U3Z5-eyJsaWNlbnNlSWQiOiJNVFc4ODFVM1o1IiwibGljZW5zZWVOYW1lIjoiTnNzIEltIiwiY
 
 ```
 
-```
-[Desktop Entry]
-
-Version=1.0
-
-Type=Application
-
-Name=PyCharm
-
-Icon=/opt/pycharm-pycharm-2019.1.3/bin/pycharm.png    #注意此处的路径
-
-Exec="/opt/pycharm-pycharm-2019.1.3/bin/pycharm.sh" %f   #注意此处的路径
-
-Comment=The Drive to Develop
-
-Categories=Development;IDE;
-
-Terminal=false Startup
-
-WMClass=jetbrains-pycharm
-```
-
 
 
 
@@ -105,6 +83,30 @@ WMClass=jetbrains-pycharm
 3.执行命令：sudo vim pycharm.desktop
 
 4.复制下面代码到pycharm.desktop文件中，注意修改其中标记的两项的路径
+
+
+```
+[Desktop Entry]
+
+Version=1.0
+
+Type=Application
+
+Name=PyCharm
+
+Icon=/opt/pycharm-pycharm-2019.1.3/bin/pycharm.png    #注意此处的路径
+
+Exec="/opt/pycharm-pycharm-2019.1.3/bin/pycharm.sh" %f   #注意此处的路径
+
+Comment=The Drive to Develop
+
+Categories=Development;IDE;
+
+Terminal=false Startup
+
+WMClass=jetbrains-pycharm
+```
+
 
 5.编辑完毕，保存并退出后，修改文件权限：
 
